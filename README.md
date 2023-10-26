@@ -33,6 +33,13 @@
    - 회원정보 저장 (Session)
     
 
+- 로그인 기능 구현
+
+  - models/member/LoginService.java
+  - 필수 항목 (ID, Password)
+  - 아이디에 해당하는 회원 정보가 있는지 체크
+  - 로그인처리(세션에 정보 저장)
+
 
    
 
